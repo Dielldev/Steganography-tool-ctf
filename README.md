@@ -30,7 +30,7 @@ The name "Minatori" comes from the word meaning "miners" in Italian, reflecting 
 1. Clone the repository:
 ```
 git clone https://github.com/Dielldev/Steganography-tool-ctf.git
-cd minatori
+cd Steganography-tool-ctf
 ```
 
 2. Install the required dependencies:
