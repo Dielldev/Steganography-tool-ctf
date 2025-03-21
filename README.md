@@ -29,7 +29,7 @@ The name "Minatori" comes from the word meaning "miners" in Italian, reflecting 
 
 1. Clone the repository:
 ```
-git clone https://github.com/Dielldev/steganography-tool.git
+git clone https://github.com/Dielldev/Steganography-tool-ctf.git
 cd minatori
 ```
 
