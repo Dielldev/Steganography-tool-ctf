@@ -6,7 +6,7 @@ A powerful steganography analysis toolkit developed during my journey through CT
 
 I developed this tool while working on a particularly challenging steganography puzzle in a CTF competition. The challenge involved detecting hidden information within seemingly innocent image files - a common technique used in CTF competitions and real-world steganography.
 
-The name "Minatori" comes from the word meaning "miners" in Italian, reflecting how this tool helps you mine for hidden data in images.
+
 
 ## Features
 
